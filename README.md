@@ -36,7 +36,7 @@ Me encanta el fútbol ⚽ y los videojuegos 🎮
 Si estás buscando a alguien apasionado y comprometido en sus labores.🤓🧐
 
 ## Mis redes sociales:📫
-  - [Github] (https://github.com/henrycorredor7570)
+  - [Github] (https://github.com/henrycorredor7570).
   - LinkedIn: www.linkedin.com/in/henry-corredor-developer
   - Facebook: https://www.facebook.com/HenryCorredor13/
   - Email: henrycorredor7570@gmail.com
