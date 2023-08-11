@@ -1,7 +1,7 @@
- # ¡Hola! 👋 ¡Bienvenido mi nombre es Henry Corredor! 😎
+ # ¡Hola! 👋 ¡Bienvenido mi nombre es Henry Corredor! 🤓
 
 ¿Quién soy?
-Soy un Desarrollador FullStack apasionado por la tecnología y la programación 🤓💻. Me caracterizo por ser una persona entusiasta, creativo, dispuesto a nuevos aprendizajes. Soy un hombre lleno de energía, que siempre está dispuesto a colaborar, acompañar y ayudar al que lo necesite. 🤝💪😉
+Soy un Desarrollador FullStack apasionado por la tecnología y la programación 😎💻. Me caracterizo por ser una persona entusiasta, creativo, dispuesto a nuevos aprendizajes. Soy un hombre lleno de energía, que siempre está dispuesto a colaborar, acompañar y ayudar al que lo necesite. 🤝💪😉
 
 Cuento con conocimiento y experiencia como Desarrollador Web tanto en el Frontend como el Backend, integrando distintas tecnologías. Esta pasión surgió a partir de mis diferentes estudios en sistemas en donde finalmente me interese mucho más en el área de programación, realizando diplomados y cursos para fortalecer esta habilidad. Participe orgullosamente del Bootcamp de HENRY en donde adquirí habilidades y destrezas como Full Stack Developer. 🚀👌. 
 
