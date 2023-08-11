@@ -1,4 +1,4 @@
- # ¡Hola! 👋 ¡Bienvenido mi nombre es Henry Corredor! 🤓⚡
+ # ¡Hola! 👋 ¡Bienvenido mi nombre es Henry Corredor! 🕵️‍♂️⚡
 
 ## ¿Quién soy?
 Soy un **Desarrollador FullStack** apasionado por la tecnología y la programación 😎💻. Me caracterizo por ser una persona entusiasta, creativo, dispuesto a adquirir nuevos conocimientos cada día. Soy un hombre lleno de energía, que siempre está dispuesto a colaborar, acompañar y ayudar al que lo necesite. **🤝💪😉**
@@ -9,7 +9,7 @@ Cuento con conocimiento y experiencia como Desarrollador Web tanto en el Fronten
 Mi objetivo es seguir creciendo profesionalmente en el campo del Desarrollo de Software aplicando mis habilidades y conocimientos en proyectos desafiantes e innovadores. 
 
 **¿Qué tecnologías uso?**
-El bootcamp de Henry me ha permitido adquirir el conocimiento y la experiencia fundamental en grandes tecnologías de gran demanda como:
+El bootcamp de Henry me ha permitido adquirir conocimientos y experiencias fundamentales en grandes tecnologías como:
   • JavaScript
   • HTML
   • CSS
@@ -19,10 +19,13 @@ El bootcamp de Henry me ha permitido adquirir el conocimiento y la experiencia f
   • Express
   • PostgreSQL
   • Git
+  
+Entre otras...
 
-¿Qué habilidades tengo?🐱‍🏍🐱‍🏍
+¿Qué habilidades tengo?
   • Soy inquisitivo
-  • Proactivo🕵️‍♂️😁🤯
+  • Proactivo![image](https://github.com/henrycorredor7570/henrycorredor7570/assets/78055527/e06e1acd-2483-4b60-acfd-c8f279236f73)
+
   • Orientado al logro
   • Con capacidad para el trabajo en equipo
   • Excelentes relaciones interpersonales 
@@ -38,3 +41,4 @@ Mis redes sociales:📫
   ♦ Facebook: https://www.facebook.com/HenryCorredor13/
   ♦ Email: henrycorredor7570@gmail.com
 
+🤓😁🤯
