@@ -11,14 +11,14 @@ Mi objetivo es seguir creciendo profesionalmente en el campo del Desarrollo de S
 ## ¿Qué tecnologías uso?
 El bootcamp de Henry me ha permitido adquirir conocimientos y experiencias fundamentales en grandes tecnologías como:
   - • JavaScript
-  - • HTML
-  - • CSS
-  ### • React
-  ### • NodeJs
-  ### • SQL
-  ### • Express
-  ### • PostgreSQL
-  ### • Git
+   • HTML
+   • CSS
+   • React
+   • NodeJs
+   • SQL
+   • Express
+   • PostgreSQL
+   • Git
   
 Entre otras...
 
