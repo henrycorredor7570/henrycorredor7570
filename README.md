@@ -8,17 +8,17 @@ Cuento con conocimiento y experiencia como Desarrollador Web tanto en el Fronten
 ## ¿A dónde me dirijo?
 Mi objetivo es seguir creciendo profesionalmente en el campo del Desarrollo de Software aplicando mis habilidades y conocimientos en proyectos desafiantes e innovadores. 
 
-##¿Qué tecnologías uso?
+## ¿Qué tecnologías uso?
 El bootcamp de Henry me ha permitido adquirir conocimientos y experiencias fundamentales en grandes tecnologías como:
-  • JavaScript
-  • HTML
-  • CSS
-  • React
-  • NodeJs
-  • SQL
-  • Express
-  • PostgreSQL
-  • Git
+  ###• JavaScript
+  ###• HTML
+  ###• CSS
+  ###• React
+  ###• NodeJs
+  ###• SQL
+  ###• Express
+  ###• PostgreSQL
+  ###• Git
   
 Entre otras...
 
