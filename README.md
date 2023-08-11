@@ -20,7 +20,7 @@ El bootcamp de Henry me ha permitido adquirir conocimientos y experiencias funda
   - PostgreSQL
   - Git
   
-Entre otras...
+**Entre otras...**
 
 ## ¿Qué habilidades tengo?
   - Soy inquisitivo
@@ -31,8 +31,9 @@ Entre otras...
 
 ## Mis hobbies:
 Me encanta el fútbol ⚽ y los videojuegos 🎮
-  
-Si estás buscando a alguien apasionado y comprometido en sus labores, **💬¡no dudes en contactarme!.**
+
+## ¡No dudes en contactarme!💬
+Si estás buscando a alguien apasionado y comprometido en sus labores.🤓🧐
 
 ## Mis redes sociales:📫
   - Github: https://github.com/henrycorredor7570
