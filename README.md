@@ -5,7 +5,8 @@ Soy un **Desarrollador FullStack** apasionado por la tecnología y la programaci
 
 Cuento con conocimiento y experiencia como Desarrollador Web tanto en el Frontend como el Backend, integrando distintas tecnologías. Esta pasión surgió a partir de mis diferentes estudios en sistemas en donde finalmente me interese mucho más en el área de programación, realizando diplomados y cursos para fortalecer esta habilidad. Participe orgullosamente del **Bootcamp** de **HENRY** en donde adquirí habilidades y destrezas como **Full Stack Developer. 🚀👌.** 
 
-**¿A dónde me dirijo?**
+**¿A dónde me dirijo?** ![image](https://github.com/henrycorredor7570/henrycorredor7570/assets/78055527/a61e27bf-e9e0-4973-89c9-f40fbde839fb)
+
 Mi objetivo es seguir creciendo profesionalmente en el campo del Desarrollo de Software aplicando mis habilidades y conocimientos en proyectos desafiantes e innovadores. 
 
 **¿Qué tecnologías uso?**https://emoji.slack-edge.com/TPRS7H4PN/cool-dog/abf1787a60fe1de9.gif
