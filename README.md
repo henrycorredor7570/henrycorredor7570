@@ -9,8 +9,8 @@
 - 😄 Pronombres: ...
 - ⚡ Dato curioso: ..
 
- # ✨¡Hola! 👋 ¡Bienvenido mi nombre es Henry Corredor! ✨
- ### ✨¡Hola! 👋 ¡Bienvenido mi nombre es Henry Corredor! ✨
+ # ¡Hola! 👋 ¡Bienvenido mi nombre es Henry Corredor! 😎
+
 
 ¿Quién soy?
 Soy un Desarrollador FullStack apasionado por la tecnología y la programación 🤓💻. Me caracterizo por ser una persona entusiasta, creativo, dispuesto a nuevos aprendizajes. Soy un hombre lleno de energía, que siempre está dispuesto a colaborar, acompañar y ayudar al que lo necesite. 🤝💪😉
