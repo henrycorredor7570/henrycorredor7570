@@ -6,6 +6,13 @@ Soy un **Desarrollador FullStack** apasionado por la tecnología y la programaci
 Cuento con conocimiento y experiencia como Desarrollador Web tanto en el Frontend como el Backend, integrando distintas tecnologías. Esta pasión surgió a partir de mis diferentes estudios en sistemas en donde finalmente me interese mucho más en el área de programación, realizando diplomados y cursos para fortalecer esta habilidad. Participe orgullosamente del **Bootcamp** de **HENRY** en donde adquirí habilidades y destrezas como **Full Stack Developer. 🚀👌.** 
 
 **¿A dónde me dirijo?** ![image](https://github.com/henrycorredor7570/henrycorredor7570/assets/78055527/a61e27bf-e9e0-4973-89c9-f40fbde839fb)
+![image](https://github.com/henrycorredor7570/henrycorredor7570/assets/78055527/91fc51da-f270-402d-a05c-b97cdf2bfdaf)
+
+![image](https://github.com/henrycorredor7570/henrycorredor7570/assets/78055527/174ef0ed-41a1-4101-aafd-8a28565b84b0)
+
+![image](https://github.com/henrycorredor7570/henrycorredor7570/assets/78055527/e89b027d-d977-4702-a338-6b3674804f40)
+![image](https://github.com/henrycorredor7570/henrycorredor7570/assets/78055527/9c9388ef-ec96-4be4-ba74-c1a4530f40eb)
+![image](https://github.com/henrycorredor7570/henrycorredor7570/assets/78055527/b3554421-4d6c-4b14-94be-cf3f6ae53e6f)
 
 Mi objetivo es seguir creciendo profesionalmente en el campo del Desarrollo de Software aplicando mis habilidades y conocimientos en proyectos desafiantes e innovadores. 
 
