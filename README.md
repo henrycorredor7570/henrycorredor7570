@@ -23,11 +23,11 @@ El **Bootcamp** de **Henry** me ha permitido adquirir conocimientos y experienci
 **Entre otras...**
 
 ## ¿Qué habilidades tengo?
-  - Soy inquisitivo
+  - Soy inquisitivo🕵️‍♂️
   - Proactivo
   - Orientado al logro
-  - Con capacidad para el trabajo en equipo
-  - Excelentes relaciones interpersonales 
+  - Con capacidad para el trabajo en equipo🤝
+  - Excelentes relaciones interpersonales 🫂
 
 ## Mis hobbies:
 Me encanta el fútbol ⚽ y los videojuegos 🎮
