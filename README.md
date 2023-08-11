@@ -8,7 +8,7 @@ Cuento con conocimiento y experiencia como Desarrollador Web tanto en el Fronten
 **¿A dónde me dirijo?**
 Mi objetivo es seguir creciendo profesionalmente en el campo del Desarrollo de Software aplicando mis habilidades y conocimientos en proyectos desafiantes e innovadores. 
 
-**¿Qué tecnologías uso?** :aww-yeah:
+**¿Qué tecnologías uso?**https://emoji.slack-edge.com/TPRS7H4PN/cool-dog/abf1787a60fe1de9.gif
 El bootcamp de Henry me ha permitido adquirir conocimientos y experiencias fundamentales en grandes tecnologías como:
   • JavaScript
   • HTML
