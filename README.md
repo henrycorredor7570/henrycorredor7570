@@ -13,12 +13,12 @@ El bootcamp de Henry me ha permitido adquirir conocimientos y experiencias funda
   - JavaScript
   - HTML
   - CSS
-   • React
-   • NodeJs
-   • SQL
-   • Express
-   • PostgreSQL
-   • Git
+  - React
+  - NodeJs
+  - SQL
+  - Express
+  - PostgreSQL
+  - Git
   
 Entre otras...
 
