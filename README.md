@@ -10,8 +10,7 @@ Mi objetivo es seguir creciendo profesionalmente en el campo del Desarrollo de S
 
 ## ¿Qué tecnologías uso?
 El **Bootcamp** de **Henry** me ha permitido adquirir conocimientos y experiencias fundamentales en grandes tecnologías como:
-  - **JavaScript** ![image](https://github.com/henrycorredor7570/henrycorredor7570/assets/78055527/7756c5c2-83ba-46d4-851e-a482155ab317)
-
+  - **JavaScript**
   - **HTML**
   - **CSS**
   - **React**
