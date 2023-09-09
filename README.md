@@ -33,7 +33,7 @@ El **Bootcamp** de **Henry** me ha permitido adquirir conocimientos y experienci
 Me encanta el fútbol ⚽ y los videojuegos 🎮
 
 ## ¡No dudes en contactarme!💬
-Si estás buscando a alguien apasionado y comprometido en sus labores. 🤓🧐
+Si estás buscando a alguien apasionado y comprometido en sus labores 🤓🧐
 
 ## Mis redes sociales:📫
   - [Github](https://github.com/henrycorredor7570)
