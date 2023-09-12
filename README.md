@@ -53,11 +53,10 @@
 <div align="center">
     <h3>¡No dudes en contactarme! 📞</h3>
     <h4>Si estás buscando a alguien apasionado y comprometido en sus labores. 🤓🧐</h4>
-    <h4>Github</h4>
+    <a>Github</a>
     <h4>LinkedIn</h4>
     <h4>Email: henrycorredor7570@gmail.com</h4>
 </div>
-
 
 
  
