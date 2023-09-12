@@ -53,11 +53,6 @@
 <div align="center">
     <h3>¡No dudes en contactarme! 📞</h3>
     <h4>Si estás buscando a alguien apasionado y comprometido en sus labores. 🤓🧐</h4>
-    <a href="www.google.com">Github</a>
-    <h4>LinkedIn</h4>
+    <a href="https://www.linkedin.com/in/henry-corredor-developer">LinkedIn</a>
     <h4>Email: henrycorredor7570@gmail.com</h4>
 </div>
-
-
-
- 
