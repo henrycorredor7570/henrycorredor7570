@@ -32,7 +32,7 @@
 </div>
 
 ---
-<div>
+<div align="center">
     <h2>¿Qué habilidades tengo?🏃‍♂️</h2>
     <ul>
         <li>Soy inquisitivo 🕵️‍♂️</li>
@@ -42,4 +42,3 @@
         <li>Excelentes relaciones interpersonales 👍</li>
     </ul>
 </div>
-
