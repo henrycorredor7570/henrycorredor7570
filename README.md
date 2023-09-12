@@ -2,8 +2,8 @@
     <img src="https://giphy.com/clips/originals-hacker-desi-hackette-lu01tsQqf1mJuHrFVq" width="200"/>
     <h1 align="center">¡Hola! 👋 ¡Bienvenido, mi nombre es Henry Corredor! 🕵️‍♂️⚡</h1>
     <h2 align="center">¿Quién soy?</h2>
-    <h3 align="center">Soy un Desarrollador Full Stack, me encanta tecnología y la programación 🤓💻. Mi enfoque en la vida se basa en el entusiasmo, la creatividad y una continua sed de conocimiento. Siempre estoy lleno de energía y dispuesto a colaborar, apoyar y ayudar a quienes lo necesiten. 🤝💪😉</h3>
-    <h3 align="center">Desarrollador Web, he acumulado experiencia tanto en Frontend como en Backend, trabajando con diversas tecnologías, como JavaScript, Java, React, NodeJs, SQL, HTML5, CSS. Mi gusto por la programación se desarrolló a través de mis estudios en tecnología, donde me sumergí en cursos y diplomados para fortalecer mis habilidades.. 🚀👌</h3>   
+    <h3 align="center">Soy un Desarrollador Full Stack, me encanta tecnología y la programación 🤓💻. Soy una persona entusiasta, con una mente creativa y una continua sed de conocimiento. Estoy constantemente lleno de energía y siempre dispuesto a colaborar y trabajar en equipo, brindar apoyo y asistencia a quien lo necesite. 🤝💪😉</h3>
+    <h3 align="center">He adquirido experiencia en las dos vertientes de desarrollo, tanto en la parte visible para el usuario (Frontend) como en la parte detrás de escena (Backend), utilizando una amplia variedad de tecnologías que incluyen JavaScript, Java, ReactJs, NodeJs, SQL, HTML5, CSS y PostgreSQL. Mi interés y pasión por la programación surgieron durante mis estudios en tecnología, donde me dediqué a realizar cursos y diplomados para mejorar mis habilidades en este campo 🚀👌</h3>   
 </div>
 
 ## ¿A dónde me dirijo?
