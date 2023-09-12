@@ -8,13 +8,14 @@
 
 ---
 <div align="center">
-    <h3>Mis Objetivos:🎯</h3>
+    <h3>Mis Objetivos: 🎯</h3>
     <h4>Estoy enfocado en seguir creciendo profesionalmente en el campo del Desarrollo de Software, perfeccionando mi conocimiento y habilidades, buscando siempre nuevos desafíos que me permitan contribuir al desarrollo de proyectos innovadores que marquen la diferencia y mejoren la vida de las personas a través de la tecnología.</h4>
 </div>
 
 ---
 <div align="center">
-    <h3>🔨 ¿Qué tecnologías uso? ⚙️</h3>
+    <h3>🔨 ¿Qué tecnologías uso? ⚙️</h3> 
+    <br/>   
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -40,3 +41,4 @@
     <h4>Con capacidad para el trabajo en equipo 🤝</h4>
     <h4>Excelentes relaciones interpersonales 👍</h4>
 </div>
+
