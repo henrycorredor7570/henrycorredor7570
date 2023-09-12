@@ -30,3 +30,16 @@
         <img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" title="Scrum" alt="Scrum" width="40" height="40"/>&nbsp;
     </div>
 </div>
+
+---
+<div>
+    <h2>¿Qué habilidades tengo?🏃‍♂️</h2>
+    <ul>
+        <li>Soy inquisitivo 🕵️‍♂️</li>
+        <li>Proactivo ⚙️</li>
+        <li>Orientado al logro 🥇</li>
+        <li>Con capacidad para el trabajo en equipo 🤝</li>
+        <li>Excelentes relaciones interpersonales 👍</li>
+    </ul>
+</div>
+
