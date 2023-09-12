@@ -1,9 +1,11 @@
- # ¡Hola! 👋 ¡Bienvenido, mi nombre es Henry Corredor! 🕵️‍♂️⚡
-
-## ¿Quién soy?
-Soy un **Desarrollador FullStack** apasionado por la tecnología y la programación 😎💻. Me caracterizo por ser una persona entusiasta, creativo, dispuesto a adquirir nuevos conocimientos cada día. Soy un hombre lleno de energía, que siempre está dispuesto a colaborar, acompañar y ayudar al que lo necesite. **🤝💪😉**
-
-Cuento con conocimiento y experiencia como Desarrollador Web tanto en el Frontend como el Backend, integrando distintas tecnologías. Esta pasión surgió a partir de mis diferentes estudios en sistemas en donde finalmente me interese mucho más en el área de programación, realizando diplomados y cursos para fortalecer esta habilidad. Participe orgullosamente del **Bootcamp** de **HENRY** en donde adquirí habilidades y destrezas como **Full Stack Developer. 🚀👌** 
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif" width="250">
+    <h1 align="center">¡Hola! 👋 ¡Bienvenido, mi nombre es Henry Corredor! 🕵️‍♂️⚡</h1>
+    <h2 align="center">¿Quién soy?</h2>
+    <p align="center">Soy un **Desarrollador FullStack** apasionado por la tecnología y la programación 😎💻. Me caracterizo por ser una persona entusiasta, creativo, dispuesto a adquirir nuevos conocimientos cada día. Soy un hombre lleno de energía, que siempre está dispuesto a colaborar, acompañar y ayudar al que lo necesite. **🤝💪😉**
+        Cuento con conocimiento y experiencia como Desarrollador Web tanto en el Frontend como el Backend, integrando distintas tecnologías. Esta pasión surgió a partir de mis diferentes estudios en sistemas en donde finalmente me interese mucho más en el área de programación, realizando diplomados y cursos para fortalecer esta habilidad. Participe orgullosamente del **Bootcamp** de **HENRY** en donde adquirí habilidades y destrezas como **Full Stack Developer. 🚀👌** 
+    </p>
+</div>
 
 ## ¿A dónde me dirijo?
 Mi objetivo es seguir creciendo profesionalmente en el campo del Desarrollo de Software aplicando mis habilidades y conocimientos en proyectos desafiantes e innovadores. 
