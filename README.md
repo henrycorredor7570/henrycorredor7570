@@ -34,11 +34,9 @@
 ---
 <div align="center">
     <h2>¿Qué habilidades tengo?🏃‍♂️</h2>
-    <ul>
-        <li>Soy inquisitivo 🕵️‍♂️</li>
-        <li>Proactivo ⚙️</li>
-        <li>Orientado al logro 🥇</li>
-        <li>Con capacidad para el trabajo en equipo 🤝</li>
-        <li>Excelentes relaciones interpersonales 👍</li>
-    </ul>
+    <h3>Soy inquisitivo 🕵️‍♂️</h3>
+    <h3>Proactivo ⚙️</h3>
+    <h3>Orientado al logro 🥇</h3>
+    <h3>Con capacidad para el trabajo en equipo 🤝</h3>
+    <h3>Excelentes relaciones interpersonales 👍</h3>
 </div>
