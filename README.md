@@ -55,8 +55,14 @@
     <h4>Si estás buscando a alguien apasionado y comprometido en sus labores. 🤓🧐</h4>
     <a href="https://www.linkedin.com/in/henry-corredor-developer">LinkedIn</a>
     <h4>Email: henrycorredor7570@gmail.com</h4>
-    <h4>Celular: +57(3246800337)</h4>
+    <h4>Cel: +57(3246800337)</h4>
 </div>
+
+---
+### Mis estadisticas:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=15&locale=es)](https://git.io/streak-stats)
+
 
 
  
