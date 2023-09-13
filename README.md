@@ -1,5 +1,6 @@
 <div id="header" align="center">
-    <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/16bishkovqEjZPmSEe/video" width="480"></iframe></div>
+    <iframe src="https://giphy.com/embed/UPqYp2tj61XlBhlPbH" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-bugs-developer-qa-UPqYp2tj61XlBhlPbH">via GIPHY</a></p>
+    <img src="https://giphy.com/clips/originals-hacker-desi-hackette-lu01tsQqf1mJuHrFVq" title="Gif" alt="Gif" width="200" height="200"/>&nbsp;
     <h1>¡Hola! 👋 ¡Bienvenido, mi nombre es Henry Corredor! 🕵️‍♂️⚡</h1>
     <h3>¿Quién soy?</h3>
     <h4>Soy un Desarrollador Full Stack, me encanta tecnología y la programación 🤓💻. Soy una persona entusiasta, con una mente creativa y una continua sed de conocimiento. Estoy constantemente lleno de energía y siempre dispuesto a colaborar y trabajar en equipo, brindar apoyo y asistencia a quien lo necesite. 🤝💪😉</h4>
@@ -57,6 +58,7 @@
     <h4>Email: henrycorredor7570@gmail.com</h4>
     <h4>Celular: +57(3246800337)</h4>
 </div>
+
 
 
 
