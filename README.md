@@ -33,6 +33,15 @@
 </div>
 
 ---
+### Mis estadisticas:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=15&locale=es)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=radical&locale=es)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrycorredor7570&hide_progress=false&locale=es)
+
+---
 <div align="center">
     <h3>¿Qué habilidades tengo?🏃‍♂️</h3>
     <h4>Soy inquisitivo 🕵️‍♂️</h4>
@@ -51,18 +60,8 @@
 
 ---
 <div align="center">
-    <h3>¡No dudes en contactarme! 📞</h3>
-    <h4>Si estás buscando a alguien apasionado y comprometido en sus labores. 🤓🧐</h4>
+    <h3>CONTACTO: 📞</h3>
     <a href="https://www.linkedin.com/in/henry-corredor-developer">LinkedIn</a>
     <h4>Email: henrycorredor7570@gmail.com</h4>
     <h4>Cel: +57(3246800337)</h4>
 </div>
-
----
-### Mis estadisticas:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=15&locale=es)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=radical&locale=es)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrycorredor7570&hide_progress=false&locale=es)
