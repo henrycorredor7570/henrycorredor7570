@@ -35,9 +35,9 @@
 ---
 <div align="center">
     <h3>Mis estadisticas: 📈</h3>
-    <img src="https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&hide_border=true&border_radius=4&locale=es" title="Estadisticas" alt="Estadisticas"  width="400" height="200"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=aura&locale=es" title="Estadisticas" alt="Estadisticas" width="400" height="190"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrycorredor7570&hide_progress=false&locale=es" title="Languages" alt="Languages"  width="400" height="190"/>&nbsp;
+    <img src="https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&hide_border=true&border_radius=4&locale=es" title="Estadisticas" alt="Estadisticas" width="400"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=aura&locale=es" title="Estadisticas" alt="Estadisticas" width="400"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrycorredor7570&hide_progress=false&locale=es" title="Languages" alt="Languages"  width="400"/>&nbsp;
 </div>
 
 ---
@@ -65,6 +65,3 @@
     <h4>Cel: +57(3246800337)</h4>
 </div>
 ---
-
-
-
