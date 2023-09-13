@@ -35,10 +35,10 @@
 ---
 <div align="center">
     <h3>Mis estadisticas:</h3>
-
+    <img src="https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=0&locale=es&card_width=467" title="Esta" alt="Esta"/>&nbsp;
+    <img src="https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=0&locale=es&card_width=467" title="Disti" alt="Disti"/>&nbsp;
+    <img src="https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=0&locale=es&card_width=467" title="Cas" alt="Cas" width="40" height="40"/>&nbsp;
 </div>
----
-### Mis estadisticas:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=0&locale=es&card_width=467)](https://git.io/streak-stats)
 
