@@ -63,4 +63,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=15&locale=es)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
