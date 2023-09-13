@@ -45,7 +45,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=henrycorredor7570&locale=es)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrycorredor7570&hide_progress=true)
 ---
 <div align="center">
     <h3>¿Qué habilidades tengo?🏃‍♂️</h3>
