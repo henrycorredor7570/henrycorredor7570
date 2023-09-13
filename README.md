@@ -34,7 +34,7 @@
 
 ---
 <div align="center">
-    <h3>Mis estadisticas:</h3>
+    <h3>Mis estadisticas: 📈</h3>
     <img src="https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&hide_border=true&border_radius=4&locale=es&card_width=467" title="Estadisticas" alt="Estadisticas"/>&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=aura&locale=es" title="Estadisticas" alt="Estadisticas"/>&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrycorredor7570&hide_progress=false&locale=es" title="Languages" alt="Languages"/>&nbsp;
@@ -60,10 +60,9 @@
 ---
 <div align="center">
     <h3>CONTACTO: 📞</h3>
-    <a href="https://www.linkedin.com/in/henry-corredor-developer">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/henry-corredor-developer" target="_blank" rel="noopener noreferrer">LinkedIn</a>
     <h4>Email: henrycorredor7570@gmail.com</h4>
     <h4>Cel: +57(3246800337)</h4>
 </div>
 
 ---
-
