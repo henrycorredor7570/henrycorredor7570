@@ -33,9 +33,14 @@
 </div>
 
 ---
+<div align="center">
+    <h3>Mis estadisticas:</h3>
+
+</div>
+---
 ### Mis estadisticas:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=15&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=0&locale=es&card_width=467)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=radical&locale=es)
 
@@ -65,3 +70,7 @@
     <h4>Email: henrycorredor7570@gmail.com</h4>
     <h4>Cel: +57(3246800337)</h4>
 </div>
+
+
+
+
