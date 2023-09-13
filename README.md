@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif" width="200" height="200"/>&nbsp;
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BpOGZ1dXEya2U1OGxpanh3azh5eGtoc3QxcnUzeHljeXMyeWhnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2KRkOVYvi8WfU4/giphy.gif" width="200" height="200"/>&nbsp;
     <h1>¡Hola! 👋 ¡Bienvenido, mi nombre es Henry Corredor! 🕵️‍♂️⚡</h1>
     <h3>¿Quién soy?</h3>
     <h4>Soy un Desarrollador Full Stack, me encanta tecnología y la programación 🤓💻. Soy una persona entusiasta, con una mente creativa y una continua sed de conocimiento. Estoy constantemente lleno de energía y siempre dispuesto a colaborar y trabajar en equipo, brindar apoyo y asistencia a quien lo necesite. 🤝💪😉</h4>
@@ -17,14 +17,14 @@
     <h3>🔨 ¿Qué tecnologías uso? ⚙️</h3> 
     <br/>   
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="SQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="Node" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
