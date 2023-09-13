@@ -35,16 +35,10 @@
 ---
 <div align="center">
     <h3>Mis estadisticas:</h3>
-    <img src="https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=0&locale=es&card_width=467" title="Esta" alt="Esta"/>&nbsp;
-    <img src="https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=0&locale=es&card_width=467" title="Disti" alt="Disti"/>&nbsp;
-    <img src="https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=0&locale=es&card_width=467" title="Cas" alt="Cas" width="40" height="40"/>&nbsp;
+    <img src="https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=0&locale=es&card_width=467" title="Estadisticas" alt="Estadisticas"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=radical&locale=es" title="Estadisticas" alt="Estadisticas"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrycorredor7570&hide_progress=false&locale=es" title="Languages" alt="Languages"/>&nbsp;
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=0&locale=es&card_width=467)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=radical&locale=es)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrycorredor7570&hide_progress=false&locale=es)
 
 ---
 <div align="center">
@@ -71,6 +65,14 @@
     <h4>Cel: +57(3246800337)</h4>
 </div>
 
+---
+[![GitHub Streak](https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&border_radius=0&locale=es&card_width=467)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=radical&locale=es)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrycorredor7570&hide_progress=false&locale=es)
+
+---
 
 
 
