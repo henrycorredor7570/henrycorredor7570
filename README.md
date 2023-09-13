@@ -41,12 +41,6 @@
 </div>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=henrycorredor7570&locale=es)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrycorredor7570&hide_progress=true)
----
 <div align="center">
     <h3>¿Qué habilidades tengo?🏃‍♂️</h3>
     <h4>Soy inquisitivo 🕵️‍♂️</h4>
@@ -70,5 +64,11 @@
     <h4>Email: henrycorredor7570@gmail.com</h4>
     <h4>Cel: +57(3246800337)</h4>
 </div>
+
+---
+[![GitHub Streak](https://streak-stats.demolab.com?user=henrycorredor7570&locale=es)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=radical)
+
 
 
