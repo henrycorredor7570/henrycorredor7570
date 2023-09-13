@@ -60,7 +60,7 @@
 ---
 <div align="center">
     <h3>CONTACTO: 📞</h3>
-    <a href="https://www.linkedin.com/in/henry-corredor-developer" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/henry-corredor-developer" target="_blank">LinkedIn</a>
     <h4>Email: henrycorredor7570@gmail.com</h4>
     <h4>Cel: +57(3246800337)</h4>
 </div>
