@@ -69,4 +69,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=radical)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=henrycorredor7570&locale=es)](https://git.io/streak-stats)
