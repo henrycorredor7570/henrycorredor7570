@@ -2,8 +2,6 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BpOGZ1dXEya2U1OGxpanh3azh5eGtoc3QxcnUzeHljeXMyeWhnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2KRkOVYvi8WfU4/giphy.gif" width="200" height="200"/>&nbsp;
     <h1 style="border-bottom: none">¡Hola! 👋 ¡Bienvenido, mi nombre es Henry Corredor! 🕵️‍♂️⚡</h1>
 </div>
-
----
 <div>
     <h3>¿Quién soy?</h3>
     <h4>Soy un Desarrollador Full Stack, me encanta tecnología y la programación 🤓💻. Soy una persona entusiasta, con una mente creativa y una continua sed de conocimiento. Estoy constantemente lleno de energía y siempre dispuesto a colaborar y trabajar en equipo, brindar apoyo y asistencia a quien lo necesite. 🤝💪😉</h4>
@@ -11,13 +9,13 @@
 </div>
 
 ---
-<div align="center">
+<div>
     <h3>Mis Objetivos: 🎯</h3>
     <h4>Estoy enfocado en seguir creciendo profesionalmente en el campo del Desarrollo de Software, perfeccionando mi conocimiento y habilidades, buscando siempre nuevos desafíos que me permitan contribuir al desarrollo de proyectos innovadores que marquen la diferencia y mejoren la vida de las personas a través de la tecnología.</h4>
 </div>
 
 ---
-<div align="center">
+<div>
     <h3>🔨 ¿Qué tecnologías uso? ⚙️</h3> 
     <br/>   
     <div>
@@ -37,7 +35,7 @@
 </div>
 
 ---
-<div align="center">
+<div>
     <h3>Mis estadísticas: 📈</h3>
     <img src="https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&hide_border=true&border_radius=4&locale=es" title="Estadisticas" alt="Estadisticas" width="400" height="187"/>&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=aura&locale=es" title="Estadisticas" alt="Estadisticas" width="400" height="177"/>&nbsp;
@@ -45,7 +43,7 @@
 </div>
 
 ---
-<div align="center">
+<div>
     <h3>¿Qué habilidades tengo?🏃‍♂️</h3>
     <h4>Soy inquisitivo 🕵️‍♂️</h4>
     <h4>Proactivo ⚙️</h4>
@@ -55,14 +53,14 @@
 </div>
 
 ---
-<div align="center">
+<div>
     <h3>Mis hobbies: 🎳</h3>
     <h4>Me encanta el fútbol ⚽</h4>
     <h4>y los videojuegos 🎮</h4>
 </div>
 
 ---
-<div align="center">
+<div>
     <h3>CONTACTO: 📞</h3>
     <a href="https://www.linkedin.com/in/henry-corredor-developer" target="_blank">LinkedIn</a>
     <h4>Email: henrycorredor7570@gmail.com</h4>
