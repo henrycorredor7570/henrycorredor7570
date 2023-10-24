@@ -4,7 +4,7 @@
 </div>
 <div>
     <h3>¿Quién soy? 🕵️‍♂️</h3>
-    <h4>Soy un Desarrollador Full Stack, me encanta tecnología y la programación 🤓💻. Soy una persona entusiasta, con una mente creativa y una continua sed de conocimiento. Estoy constantemente lleno de energía y siempre dispuesto a colaborar y trabajar en equipo, brindar apoyo y asistencia a quien lo necesite. 🤝💪😉</h4>
+    <h4>Soy un Desarrollador Full Stack, me encanta la tecnología y la programación 🤓💻. Soy una persona entusiasta, con una mente creativa y una continua sed de conocimiento. Estoy constantemente lleno de energía y siempre dispuesto a colaborar y trabajar en equipo, brindar apoyo y asistencia a quien lo necesite. 🤝💪😉</h4>
     <h4>Mi experiencia en Front-end y Back-end me permite abordar proyectos de extremo a extremo con confianza, utilizando las tecnologías mas usadas en la actualidad. Estoy bien versado en metodologías ágiles, lo que me permite colaborar de manera efectiva en equipos multidisciplinarios y entregar proyectos de alta calidad en plazos ajustados. 🚀👌</h4> 
 </div>
 
