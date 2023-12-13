@@ -36,13 +36,13 @@
 ---
 <div align="left">
     <h3>Mis estadísticas: 📈</h3>
-    <img src="https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&hide_border=true&border_radius=4&locale=es" title="Estadisticas" alt="Estadisticas" width="500" height="200" align="left"/>&nbsp;
+    <img src="https://streak-stats.demolab.com?user=henrycorredor7570&theme=github-green-purple&hide_border=true&border_radius=4&locale=es" title="Estadisticas" alt="Estadisticas" width="500" height="200" align="left"/>
 </div>
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=aura&locale=es" title="Estadisticas" alt="Estadisticas" width="500" height="200" align="left"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=henrycorredor7570&show_icons=true&theme=aura&locale=es" title="Estadisticas" alt="Estadisticas" width="500" height="200" align="left"/>
 </div>
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrycorredor7570&hide_progress=false&locale=es" title="Languages" alt="Languages"  width="500" height="200" align="left"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrycorredor7570&hide_progress=false&locale=es" title="Languages" alt="Languages"  width="500" height="200" align="left"/>
 </div>
 
 ---
