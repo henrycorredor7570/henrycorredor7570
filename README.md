@@ -3,7 +3,7 @@
 </div>
 <div>
     <h3>¿Quién soy? 🕵️‍♂️</h3>
-    <h4>Soy un Desarrollador Full Stack, me encanta la tecnología y la programación 🤓💻. Soy una persona entusiasta, con una mente creativa y una continua sed de conocimiento. Estoy constantemente lleno de energía y siempre dispuesto a colaborar y trabajar en equipo, brindar apoyo y asistencia a quien lo necesite. 🤝💪😉</h4>
+    <h4>Soy un Desarrollador Full Stack, he acumulado experiencia tanto en Frontend como en Backend, trabajando con diversas tecnologías, como JavaScript, Java, Spring Boot, React, NodeJs, EJB, JPA, Angular, Bootstrap, WordPress, HTML y CSS, entre otras 🤓💻. Mi experiencia abarca tanto el frontend como el backend, permitiéndome desarrollar proyectos web integrales y responsivos que equilibran la estética y la funcionalidad. He trabajado en entornos de desarrollo ágiles; lo que ha fortalecido mi capacidad para desempeñarme en ambientes dinámicos, fomentando una alta dosis de creatividad, adaptación y colaboración efectiva.💪😉</h4>
     <h4>Mi experiencia en Front-end y Back-end me permite abordar proyectos de extremo a extremo con confianza, utilizando las tecnologías mas usadas en la actualidad. Estoy bien versado en metodologías ágiles, lo que me permite colaborar de manera efectiva en equipos multidisciplinarios y entregar proyectos de alta calidad en plazos ajustados. 🚀👌</h4> 
 </div>
 
