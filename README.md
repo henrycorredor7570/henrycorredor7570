@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BpOGZ1dXEya2U1OGxpanh3azh5eGtoc3QxcnUzeHljeXMyeWhnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2KRkOVYvi8WfU4/giphy.gif" width="200" height="200"/>&nbsp;
     <h1>¡Hola! 👋 ¡Bienvenido, mi nombre es Henry Corredor! ⚡</h1>
 </div>
 <div>
