@@ -59,7 +59,7 @@
 <div>
     <h3>Mis hobbies: 🎳</h3>
     <h4>Me encanta el fútbol ⚽</h4>
-    <h4>y los videojuegos 🎮</h4>
+    <h4>y los videojuegos 🎮.</h4>
 </div>
 
 ---
