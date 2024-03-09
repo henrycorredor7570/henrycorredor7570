@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>¡Hola! 👋 ¡Bienvenido, mi nombre es Henry Corredor!⚡</h1> 
+    <h1>¡Hola! 👋 ¡Bienvenido, mi nombre es Henry Corredor!⚡</h1>
 </div> 
 <div>
     <h3>¿Quién soy? 🕵️‍♂️</h3>
