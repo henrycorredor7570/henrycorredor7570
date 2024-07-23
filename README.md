@@ -1,7 +1,7 @@
 <div id="header" align="center"> 
     <h1>¡Hola! 👋 ¡Bienvenido, mi nombre es Henry Corredor!⚡</h1> 
 </div>  
-<div>
+<div> 
     <h3>¿Quién soy? 🕵️‍♂️</h3>
     <h4>Soy un Desarrollador Full Stack, he acumulado experiencia tanto en Frontend como en Backend, trabajando con diversas tecnologías, como JavaScript, Java, Spring Boot, React, NodeJs, EJB, JPA, Angular, Bootstrap, WordPress, HTML y CSS, entre otras 🤓💻. Mi                experiencia abarca tanto el frontend como el backend, permitiéndome desarrollar proyectos web integrales y responsivos que equilibran la estética y la funcionalidad. He trabajado en entornos de desarrollo ágiles; lo que ha fortalecido mi capacidad para                   desempeñarme en ambientes dinámicos, fomentando una alta dosis de creatividad, adaptación y colaboración efectiva.💪😉  
     </h4>
