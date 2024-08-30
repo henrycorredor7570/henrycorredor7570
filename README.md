@@ -10,7 +10,7 @@
 ---
 <div>
     <h3>Mis Objetivos: 🎯</h3> 
-    <h4>Estoy enfocado en seguir creciendo profesionalmente en el campo del Desarrollo de Software, perfeccionando mi conocimiento y habilidades, buscando siempre nuevos desafíos que me permitan contribuir al desarrollo de proyectos innovadores que marquen la diferencia y mejoren la vida de las personas a través de la tecnología.🚀👌 </h4>
+    <h4>Estoy enfocado en seguir creciendo profesionalmente en el campo del Desarrollo de Software, perfeccionando mi conocimiento y habilidades, buscando siempre nuevos desafíos que me permitan contribuir al desarrollo de proyectos innovadores que marquen la diferencia y mejoren la vida de las personas a través de la tecnología.🚀👌 </h4> 
 </div>
 
 ---
