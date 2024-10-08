@@ -3,7 +3,13 @@
 </div>
 <div>
     <h3>¿Quién soy? 🕵️‍♂️</h3>
-    <h4>Soy un Desarrollador Full Stack, he acumulado experiencia tanto en Frontend como en Backend, trabajando con diversas tecnologías, como JavaScript, Java, Spring Boot, React, NodeJs, EJB, JPA, Angular, Bootstrap, WordPress, HTML y CSS, entre otras 🤓💻. Mi                experiencia abarca tanto el frontend como el backend, permitiéndome desarrollar proyectos web integrales y responsivos que  equilibran la estética y la funcionalidad. He trabajado en entornos de desarrollo ágiles; lo que ha fortalecido mi capacidad para                   desempeñarme en ambientes dinámicos, fomentando una alta dosis de creatividad, adaptación y colaboración efectiva.💪😉 
+    <h4>💻 Full Stack Developer Junior con experiencia en el ciclo de vida del desarrollo de software, desde la estructuración y creación de bases de datos SQL y NoSQL, hasta la implementación de la lógica de negocio en el backend con APIs RESTful y servicios escalables. También me encargo del frontend, desarrollando interfaces de usuario dinámicas y responsivas, y finalizo con el despliegue en la web. 
+
+🚀 Tengo un excelente manejo de lenguajes de programación como JavaScript, Java, TypeScript Python integrando Inteligencia Artificial, experiencia en la creación de modelos de Machine Learning. Manejo de frameworks como React, Node.js, Angular y Bootstrap y bases de datos como MySQL, PostgreSQL, SQLite y MongoDB.
+
+⚙ Con una gran habilidad para integrar nuevas tecnologías y adaptarme a distintos entornos, colaboro eficazmente en equipo, manteniendo siempre una mentalidad orientada a soluciones y superando obstáculos con resiliencia.
+
+¡Siempre listo para una buena conversación!
     </h4>
 </div>
 
@@ -48,8 +54,8 @@
 ---
 <div>
     <h3>¿Qué habilidades tengo?🏃‍♂️</h3>
-    <h4>Soy inquisitivo 🕵️‍♂️</h4>
-    <h4>Proactivo ⚙️</h4>
+    <h4>Resiliencia 🕵️‍♂️</h4>
+    <h4>Autónomo ⚙️</h4>
     <h4>Orientado al logro 🥇</h4>
     <h4>Con capacidad para el trabajo en equipo 🤝</h4>
     <h4>Excelentes relaciones interpersonales 👍</h4>
@@ -66,8 +72,8 @@
 <div>
     <h3>CONTACTO: 📞</h3>
     <a href="https://www.linkedin.com/in/henry-corredor-developer" target="_blank">LinkedIn</a>
-    <h4>Email: henrycorredor7570@gmail.com</h4>
-    <h4>Cel: +57(3246800337) </h4>
+    <h4>Email: henrycorredor7570@gmail.com ✉️</h4>
+    <h4>Cel: +57(3246800337) 📱</h4>
 </div>
 
 ---
