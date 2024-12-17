@@ -2,7 +2,7 @@
     <h1>¡Hola! 👋 ¡Bienvenido, mi nombre es Henry Corredor!⚡</h1>  
 </div>
 <div>
-    <h3>¿Quién soy? 🕵️‍♂️</h3>
+    <h3>¿Quién soy? 🕵️‍♂️</h3> 
     <h4>💻 Full Stack Developer Junior con experiencia en el ciclo de vida del desarrollo de software, desde la estructuración y creación de bases de datos SQL y NoSQL, hasta la implementación de la lógica de negocio en el backend con APIs RESTful y servicios escalables. También me encargo del frontend, desarrollando interfaces de usuario dinámicas y responsivas, y finalizo con el despliegue en la web. 
 
 🚀 Tengo un excelente manejo de lenguajes de programación como JavaScript, Java, TypeScript Python integrando Inteligencia Artificial, experiencia en la creación de modelos de Machine Learning. Manejo de frameworks como React, Node.js, Angular y Bootstrap y bases de datos como MySQL, PostgreSQL, SQLite y MongoDB.
