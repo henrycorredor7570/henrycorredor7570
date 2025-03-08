@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center"> 
     <h1>¡Hola! 👋 ¡Bienvenido, mi nombre es Henry Corredor!⚡</h1> 
 </div>
 <div>
